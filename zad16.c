@@ -1,4 +1,4 @@
-// Program treba naci duljinu zadanog stringa.
+// Program treba naci duljinu zadanog stringa, bez upotrebe naredbe strlen.
 
 #include <stdio.h>
 int main()
